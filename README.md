@@ -22,4 +22,4 @@ Also, as my technical experience with programming has mattered much less these d
 
 ----
 
-There is alot I would like to do in this life. For whatever reason I have the Founder bug and not happy unless I see certain ideas come to fruition and I see many folks are not focusing on them like I do. It will be impossible for me to do that the task alone and I realize that working with other individuals is the quicket way for me to get there. 
+There is alot I would like to do in this life. For whatever reason I have the Founder bug and not happy unless I see certain ideas come to fruition and I see many folks are not focusing on them like I do. It will be impossible for me to do that the task alone and I realize that working with other individuals is the quickest way for me to get there. While I am the type that is happy sitting in front of books for the rest of my life and not being around a single soul, due to my intended goals in life that is not who I am today. 
