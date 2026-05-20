@@ -2,9 +2,9 @@
 
 Hi I'm Ace Greenman. My family calls me Avi, past colleagues call me Charlie, but Ace, a nickname an old colleague called me at a time I thought very little of myself, has wedged itself in my mind. I am now thoroughly Ace through the kindness of a time it mattered the most. 
 
-Beyond using github.com/agent-pattern-labs/JobForge to automate my job search(budget cuts for the 3rd time in 3 years shkoyach):
+Beyond using [github.com/agent-pattern-labs/JobForge](github.com/agent-pattern-labs/JobForge) to automate my job search(budget cuts for the 3rd time in 3 years shkoyach):
 
-I am spending my time these times mostly divided between an agentic sales tool(getcoldagent.com) and an automated social media(profilescribe.com).
+I am spending my time these times mostly divided between an agentic sales tool([getcoldagent.com](getcoldagent.com)) and an automated social media([profilescribe.com](profilescribe.com)).
 
 ----
 I am taking a break from human based social media(deleted most of them) and might not go back. For three primary reasons: 
@@ -18,7 +18,7 @@ I have been much happier that way. I'd like to be a part of a future where socia
 
 ----
 
-Also, as my technical experience with programming has mattered much less these days, I have found much enjoyment in learning mathematics. Beyond my usual reading such as reading Meditations by Marcus Aurelius and whatever new interests I have under the sun. spending time thinking and writing for Project Creed(github.com/project-creed) I am relearning linear Algebra and Calculus. Going slow and steady this time. I have also been spending some time theorizing re: Discrete Causal Geometry as I find much practical interest there(particularly around Gravity and understanding our universe). A large part of my interest in Mathematical Physics is so I can continue to contribute to this field. I recently published my first paper on ARXIV as an independent researcher on Discrete Causal Geometry. It can be read here on github: github.com/Agent-Pattern-Labs/intrinsic-history-algebra as well on ARXIV: 
+Also, as my technical experience with programming has mattered much less these days, I have found much enjoyment in learning mathematics. Beyond my usual reading such as reading Meditations by Marcus Aurelius and whatever new interests I have under the sun. spending time thinking and writing for Project Creed([github.com/project-creed](github.com/project-creed)) I am relearning linear Algebra and Calculus. Going slow and steady this time. I have also been spending some time theorizing re: Discrete Causal Geometry as I find much practical interest there(particularly around Gravity and understanding our universe). A large part of my interest in Mathematical Physics is so I can continue to contribute to this field. I recently published my first paper on ARXIV as an independent researcher on Discrete Causal Geometry. It can be read here on github: [github.com/Agent-Pattern-Labs/intrinsic-history-algebra](github.com/Agent-Pattern-Labs/intrinsic-history-algebra) as well on ARXIV: TODO. 
 
 ----
 
