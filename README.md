@@ -1,5 +1,8 @@
 `Do the thing. The future has already claimed you.`
 
+[![FounderRank badge](https://founderrank.greenman.vc/badges/north-america/verified-abraham-greenman.svg)](https://founderrank.greenman.vc/founders/verified-abraham-greenman/) [![committers.top badge](https://user-badge.committers.top/united_states_private/AbrahamGreenman.svg)](https://user-badge.committers.top/united_states_private/AbrahamGreenman)
+  
+
 ## What Is Worth Devoting Yourself To
 
 > When a person gives themselves to what is true and good—not for status, advantage, applause, or reward, but because these things are worthy in themselves—that person is changed.
