@@ -1,4 +1,4 @@
-`Do the thing. The future has already claimed you.`
+`Ke wak lo. Fer ka dav ta.`
 
 [![FounderRank badge](https://founderrank.greenman.vc/badges/north-america/verified-abraham-greenman.svg)](https://founderrank.greenman.vc/founders/verified-abraham-greenman/) [![committers.top badge](https://user-badge.committers.top/united_states_private/AbrahamGreenman.svg)](https://user-badge.committers.top/united_states_private/AbrahamGreenman)
   
