@@ -1,5 +1,8 @@
-> “I persist in my righteousness and will not yield;
-> I shall be free of reproach as long as I live.”
+I have held on to my righteousness, and I will not relent; my heart has not shamed me, I have not entertained any shameful thoughts, all my days.
+
+
+> “I persist in my righteousness and will not relent;
+> My heart has not shamed me all my days.”
 >
 > — Job 27:6
 
